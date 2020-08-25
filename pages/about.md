@@ -12,4 +12,4 @@ permalink: /about.html
 
 ## About the Collection
 
-This collection features items submitted to the University of Idaho in response to a call for Quaranzines sent out in June of 2020. The collection was processed by Robert Perret, Special Collections and Reference Librarian.
+This collection features items submitted to the University of Idaho in response to a call for Quaranzines sent out in June of 2020. The collection was processed by Robert Perret, Special Collections and Reference Librarian. Special thanks to Jennifer Met for outreach and coordination.
