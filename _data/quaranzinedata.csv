@@ -1,7 +1,9 @@
-objectid,filename,youtubeid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
-coll001,img008c.jpg,,Quaranzine banner image,Robert Perret,2020,Line drawing of Joe Vandal with motto Quaranzines Telling Our Handmade Stories,zines;university of idaho;quarantine,"Moscow, Idaho",46.725562,-117.009633,original drawing,,Image;StillImage,image/jpeg,eng,Public domain,http://rightsstatements.org/vocab/NoC-US/1.0/
-coll002,CoronaPoems.pdf,,Corona Poems,Ndaba Sibanda,2020,Poetry,poetry;quarantine,"Bulawayo, Zimbabwe",-20.1457,28.5873,docx,,application/pdf,application/pdf,eng,,
-coll003,dwan81.pdf,,Dwan81,Donny Smith,2020,Poetry,poetry;quarantine,"Swathmore, Pennsylvania",39.9021,-75.3499,pdf,,Image;StillImage,application/pdf,eng,,
-coll004,img007.jpg,,It is Quarantine Time,Shipley,2020,Hand drawn comic about life during quarantine,comic strip;drawing;quarantine,"Atlanta, Georgia",33.749,-84.388,original drawing,,Image;StillImage,image/jpeg,eng,,
-coll005,ReportingTheRighttoKnow.pdf,,Reporting - The Right to Know,Michael J. Moore,2020,Poetry,poetry;quarantine,"Seattle, Washington",47.6062,-122.3321,docx,,application/pdf,application/pdf,eng,,
-coll006,uidaho062120.pdf,,The Second Round of the Pandemic,Yi-wen Huang,2020,Poetry,poetry;quarantine,"Gallup, New Mexico",35.5281,-108.7426,docx,,application/pdf,application/pdf,eng,,
+Title,Date,Description,Subjects,Link
+Quaranzine banner image,2020,Line drawing of Joe Vandal with motto Quaranzines Telling Our Handmade Stories,zines;university of idaho;quarantine,https://robertp221b.github.iohttps://robertp221b.github.io/idahoquaranzines/item.html?id=coll001
+Corona Poems,2020,Poetry,poetry;quarantine,https://robertp221b.github.iohttps://robertp221b.github.io/idahoquaranzines/item.html?id=coll002
+Dwan81,2020,Poetry,poetry;quarantine,https://robertp221b.github.iohttps://robertp221b.github.io/idahoquaranzines/item.html?id=coll003
+It is Quarantine Time,2020,Hand drawn comic about life during quarantine,comic strip;drawing;quarantine,https://robertp221b.github.iohttps://robertp221b.github.io/idahoquaranzines/item.html?id=coll004
+Reporting - The Right to Know,2020,Poetry,poetry;quarantine,https://robertp221b.github.iohttps://robertp221b.github.io/idahoquaranzines/item.html?id=coll005
+The Second Round of the Pandemic,2020,Poetry,poetry;quarantine,https://robertp221b.github.iohttps://robertp221b.github.io/idahoquaranzines/item.html?id=coll006
+Quaranzine United,2020,Zine,zines; quarantine,https://robertp221b.github.iohttps://robertp221b.github.io/idahoquaranzines/item.html?id=coll007
+ZineLGelskey.pdf,2020,Zine,zines; quarantine,https://robertp221b.github.iohttps://robertp221b.github.io/idahoquaranzines/item.html?id=coll008
