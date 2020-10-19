@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # url is your gh-pages base, following the pattern: username.github.io
-url: https://robertp221b.github.io
+url: https://uidaholib.github.io
 # baseurl is your github repository's name prefixed with a /
 baseurl: /idahoquaranzines
 # location of code, the full url to your github repository
-source-code: https://github.com/robertp221b/idahoquaranzines
+source-code: https://github.com/uidaholib/idahoquaranzines
 
 ##########
 # SITE SETTINGS
